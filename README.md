@@ -1,2 +1,2 @@
 # C-programing
-Auther-Upendra singh
+Auther-Upendra singh student of aiml
